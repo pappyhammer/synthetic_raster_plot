@@ -1,0 +1,10 @@
+
+src/__pycache__/
+
+data/raster_dur_images/.DS_Store
+
+data/.DS_Store
+
+data/raster_dur_images/hidden/.DS_Store
+
+data/raster_dur_images/hidden/
